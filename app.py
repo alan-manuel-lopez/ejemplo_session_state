@@ -1,2 +1,2 @@
 import streamlit as st
-st.tittle("ejemplo para usar session_state")
+st.title("ejemplo para usar session_state")
